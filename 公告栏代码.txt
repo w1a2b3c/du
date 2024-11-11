@@ -1,0 +1,22 @@
+﻿<div class="notice-1" style="display: flex;">
+<div class="stk-column-95f5b65" style="color: #4d545c; font-size: 16px; align-self: center !important; width: 63%;" data-v="4" data-block-id="95f5b65">
+<div class="stk-column-wrapper stk-block-column__content stk-container stk-95f5b65-container stk--no-background stk--no-padding" style="width: 100%;">
+<div class="stk-block-content stk-inner-blocks stk-95f5b65-inner-blocks" style="width: auto;"><img class="custom-image-0" style="max-width: 570px; max-height: 99px;" src="https://s777.top//uploads/tinymce/images/5287fcac9f24497d7674fc648f82bf8f65ebc3bb0c39a.png" alt="" width="1326" height="230" />
+<div class="wp-block-stackable-text stk-block-text stk-block stk-ed653e9" style="margin-top: 14px;" data-block-id="ed653e9">
+<p class="stk-block-text__text has-text-color" style="margin-bottom: 4px; font-size: 22px !important; color: #262626 !important;"><strong style="box-sizing: border-box;">Gmail 谷歌邮箱 | Twitter 推特账号 | Facebook账号</strong></p>
+</div>
+<div id="购买前务必先看登录教程，看不懂不要购买" class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-cc9b2c9" data-block-id="cc9b2c9">
+<h3 class="stk-block-heading__text has-text-color" style="margin: 0px !important; line-height: var(--lineHeight); color: #262626 !important; font-size: 30px;">购买前务必先看登录教程，看不懂不要购买!</h3>
+</div>
+<div class="wp-block-stackable-text stk-block-text stk-block stk-3b584bc" data-block-id="3b584bc">
+<p class="stk-block-text__text has-text-color" style="margin-bottom: 4px; font-size: inherit; color: #262626 !important;">TG客服：xxxxxx丨频道：xxxxxx</p>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-stackable-column stk-block-column stk-column stk-block stk-2ecd093" style="width: 30%;" data-v="4" data-block-id="2ecd093">
+<div class="stk-column-wrapper stk-block-column__content stk-container stk-2ecd093-container stk--no-background stk--no-padding">
+<div class="stk-block-content stk-inner-blocks stk-2ecd093-inner-blocks"><img class="custom-image-1" src="https://s777.top//uploads/tinymce/images/13cdb71f58255a6ba901942b03c8af3b65ebc3da8cf3a.png" alt="" width="380" height="303" /></div>
+</div>
+</div>
+</div>
